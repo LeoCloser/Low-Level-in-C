@@ -1,6 +1,5 @@
 #include <conio.h>
 #include <stdio.h>
-#include "C:\Users\sony\Desktop\lowLevelLibrary.h"
 
 typedef unsigned int uint16_t;
 typedef unsigned char uint8_t; 
